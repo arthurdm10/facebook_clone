@@ -1,0 +1,33 @@
+final List<String> usernames = [
+  "Boycey Lafee",
+  "Lucienne Caws",
+  "Carol Hargerie",
+  "Moises Prestner",
+  "Blane Tetsall",
+  "Cross Bosenworth",
+  "Karim Sarch",
+  "Marshal McDonogh",
+  "Mile McGilben",
+  "Roz Grave",
+  "Carmen Donneely",
+  "Lesly Featley",
+  "Jack Triplett",
+  "Ettie Barltrop",
+  "Saxe Grestye",
+  "Tracy Dalgardno",
+  "Mahmoud Bourges",
+];
+
+final List<String> groups = [
+  'Moore and Sons',
+  'Casper-Champlin',
+  'Weissnat LLC',
+  'Koelpin and Sons',
+  'Wolf-Mills',
+  'Metz-Trantow',
+  'Rosenbaum-Hilll',
+  'Wilkinson-Marks',
+  'Balistreri-Graham',
+  'Nicolas-Bogisich',
+  'Fadel LLC',
+];
